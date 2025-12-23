@@ -1,5 +1,5 @@
 # ==================== ОСНОВНЫЕ НАСТРОЙКИ БОТА ====================
-BOT_TOKEN = '8269258723:AAHTvTAe4uonLsIRuLGWpsvKbZ8r1dm-1C0'
+BOT_TOKEN = '8460512164:AAF_pKSbmZ3DYja00dJcqZnBwhGsAMweUZg'
 api_cryptobot = '503730:AASfc5N8fIyUb4l4iN5Yi5ObcpfHJRsMx5U'
 
 # ==================== НАСТРОЙКИ ПРОИЗВОДИТЕЛЬНОСТИ ====================
